@@ -1,9 +1,9 @@
 body {
     background-color: rgb(221, 221, 240);
 }
-h3 {
+h3, h2 {
     color: rgb(226, 55, 43)
-;
+; border: 3px; darkblue;
 }
 
 .name {
